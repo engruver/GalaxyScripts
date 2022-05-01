@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GalaxyScripts", "GalaxyScripts\GalaxyScripts.pyproj", "{087051B7-C643-4B22-94FE-C8B17D381936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087051B7-C643-4B22-94FE-C8B17D381936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087051B7-C643-4B22-94FE-C8B17D381936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D23444F-7642-4A9D-BD02-4C68F1D8C69B}
+	EndGlobalSection
+EndGlobal
