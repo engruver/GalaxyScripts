@@ -1,0 +1,15 @@
+function Dijkstra(image, edge, center):
+	
+	Queue Q
+	
+	for each pixel p in image:
+		dist[p] = null
+		prev[p] = null
+		add p to Q
+	dist[edge] = 0
+	
+	while Q is not empty:
+		array S
+		u = center
+		if prev[u]
+		

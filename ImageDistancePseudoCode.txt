@@ -1,0 +1,16 @@
+List[OriginalImages] OriginalImages
+List[SkeletonImages] SkeletonImages
+List[int,string] Distances
+
+foreach(sImage in SkeletonImages){
+	sImageCenter
+	foreach(oImage in OriginalImages){
+		if(sImage.Name.Contains(oImage.Name))
+			oImageCenter = FindCenter(oImage)
+			sImageCenter = oImageCenter
+	}
+	distance = FloodFillDistance(sImage,sImageCenter)
+	Distances.add(distance, sImage.Name)
+}
+	
+	
